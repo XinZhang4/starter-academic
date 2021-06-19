@@ -1,6 +1,7 @@
 ---
 title: Xin Zhang
 role: Postdoctoral Research Associate
+avatar_filename: xzhang.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -24,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of California, Davis
+    url: https://www.ucdavis.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
