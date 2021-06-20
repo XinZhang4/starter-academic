@@ -2,13 +2,14 @@
 title: Xin Zhang
 role: Postdoctoral Research Associate
 avatar_filename: avatar.jpeg
-bio: My research interests include  in agriculture applications.
+bio: ""
 interests:
   - 🤖 Artificial Intelligence
   - 📸 Computer Vision
   - 🧠 Machine/Deep Learning
   - 🛰 Remote Sensing
   - ⛏ Data Science/Mining
+  - 👩‍🌾 Agriculture
 social:
   - icon: envelope
     icon_pack: fas
