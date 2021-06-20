@@ -1,11 +1,12 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome to Dr. Xin Zhang's professional space 👋
+title: Welcome to Dr. Xin Zhang's professional space 👋
+subtitle: ""
 date: 2021-06-20T01:37:02.298Z
 summary: ""
 draft: false
 featured: false
-authors: []
+authors:
+  - admin
 lastmod: 2020-12-13T00:00:00Z
 tags: []
 categories: []
