@@ -48,4 +48,4 @@ Xin Zhang, Ph.D., is currently a full-time Postdoctoral Researcher at University
 
 Xin has broad research experiences and is particularly interested in 1) RGB, multispectral, hyperspectral, thermal, and LiDAR capable sUAS remote and proximal sensing; 2) computer vision and deep learning-based field ag-robotics development; and 3) machine learning-based data science and feature engineering in the biological world.
 
-{{< icon name="download" pack="fas" >}} Click to download my most recent {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Click to download Xin's most recent {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
