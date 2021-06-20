@@ -4,11 +4,11 @@ role: Postdoctoral Research Associate
 avatar_filename: avatar.jpeg
 bio: My research interests include  in agriculture applications.
 interests:
-  - Artificial Intelligence 🤖
-  - Computer Vision 📸
-  - Machine/Deep Learning 🧠
-  - Remote Sensing 🛰
-  - Data Science/Mining ⛏
+  - 🤖 Artificial Intelligence
+  - 📸 Computer Vision
+  - 🧠 Machine/Deep Learning
+  - 🛰 Remote Sensing
+  - ⛏ Data Science/Mining
 social:
   - icon: envelope
     icon_pack: fas
@@ -45,4 +45,4 @@ highlight_name: false
 ---
 Xin Zhang, Ph.D., is currently a full-time Postdoctoral Researcher at University of California, Davis, Department of Biological and Agricultural Engineering. Xin has dedicated her efforts and time to developing 1) automated AI-driven pipelines to analyze aerial and ground image-based datasets; 2) decision-support tools for the U.S. west coast specialty crops using the advanced remote and proximal sensing technologies; and 3) automated and mechanized agricultural robots for solving the urgent issue of labor shortage worldwide. Xin has broad research experiences and is particularly interested in 1) RGB, multispectral, hyperspectral, thermal, and LiDAR capable sUAS remote and proximal sensing; 2) computer vision and deep learning-based field ag-robotics development; and 3) machine learning-based data science and feature engineering in the biological world.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
