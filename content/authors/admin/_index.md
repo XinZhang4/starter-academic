@@ -1,13 +1,14 @@
 ---
 title: Xin Zhang
 role: Postdoctoral Research Associate
-avatar_filename: ""
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: avatar.jpeg
+bio: My research interests include  in agriculture applications.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence 🤖
+  - Computer Vision 📸
+  - Machine/Deep Learning 🧠
+  - Remote Sensing 🛰
+  - Data Science/Mining ⛏
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,9 +43,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Xin Zhang, Ph.D., is currently a full-time Postdoctoral Researcher at University of California, Davis, Department of Biological and Agricultural Engineering. Xin has dedicated her efforts and time to developing 1) automated AI-driven pipelines to analyze aerial and ground image-based datasets; 2) decision-support tools for the U.S. west coast specialty crops using the advanced remote and proximal sensing technologies; and 3) automated and mechanized agricultural robots for solving the urgent issue of labor shortage worldwide. Xin has broad research experiences and is particularly interested in 1) RGB, multispectral, hyperspectral, thermal, and LiDAR capable sUAS remote and proximal sensing; 2) computer vision and deep learning-based field ag-robotics development; and 3) machine learning-based data science and feature engineering in the biological world.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
