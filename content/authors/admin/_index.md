@@ -1,7 +1,7 @@
 ---
 title: Xin Zhang
 role: Postdoctoral Research Associate
-avatar_filename: xzhang.jpeg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
