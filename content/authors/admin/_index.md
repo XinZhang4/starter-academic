@@ -9,7 +9,7 @@ interests:
   - 🧠 Machine/Deep Learning
   - 🛰 Remote Sensing
   - ⛏ Data Science/Mining
-  - 👩‍🌾 Agriculture
+  - 👩‍🌾 Smart Agriculture
 social:
   - icon: envelope
     icon_pack: fas
