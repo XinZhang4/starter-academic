@@ -30,16 +30,16 @@ organizations:
     url: https://www.ucdavis.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Ph.D. in Biological and Agricultural Engineering
+      institution: Washington State University
+      year: 2020
+    - course: M.S. in Agriculture
+      institution: Northwest A&F University
+      year: 2016
+    - course: B.S. in Agronomy
+      institution: Gansu Agriculture University
+      year: 2013
+email: xzxzhang@ucdavis.edu
 superuser: true
 highlight_name: false
 ---
