@@ -13,18 +13,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
+  - icon: university
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://digitalag.ucdavis.edu/
+  - icon: google
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=9dJH12gAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/xin-zhang-%E5%BC%A0%E6%AC%A3-b9a505195/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/XinZhang4
 organizations:
   - name: University of California, Davis
     url: https://www.ucdavis.edu/
