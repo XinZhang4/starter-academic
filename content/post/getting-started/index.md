@@ -1,20 +1,21 @@
 ---
-title: Welcome to Dr. Xin Zhang's professional space 👋
+title: 👋 Welcome to Xin's academic collections!
 subtitle: ""
-date: 2021-06-20T01:41:43.194Z
+date: 2021-06-20T19:59:58.517Z
 summary: ""
 draft: false
 featured: false
 authors:
   - admin
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags: []
 categories: []
 projects: []
 image:
-  caption: ""
+  caption: Xin's Ph.D. final defense at Washington State University
   focal_point: ""
   placement: 2
   preview_only: false
+  filename: featured.jpg
 ---
-## Overview
+Hello! Thank you for visiting Xin's academic webpage. Hope you have a good time here!
