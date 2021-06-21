@@ -17,7 +17,7 @@ social:
   - icon: university
     icon_pack: fas
     link: https://digitalag.ucdavis.edu/
-  - icon: google
+  - icon: google-scholar
     icon_pack: fab
     link: https://scholar.google.com/citations?user=9dJH12gAAAAJ&hl=en
   - icon: linkedin
