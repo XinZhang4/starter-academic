@@ -143,7 +143,7 @@ search:
 map:
   provider: 1
 #  engine: 2
-  api_key: 'https://developers.google.com/maps/documentation/javascript/get-api-key'
+  api_key: https://developers.google.com/maps/documentation/javascript/get-api-key
   zoom: 15
 marketing:
   google_analytics: ''
