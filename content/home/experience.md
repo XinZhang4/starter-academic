@@ -33,7 +33,7 @@ experience:
         
         * Collecting various UAV-based imagery datasets
         * Developing automated AI-driven pipelines and algorithms
-        * Analyzing remote sensed imagery datasets on specialty crops (e.g., tree nut 🌰)
+        * Analyzing remote sensed imagery datasets on specialty crops (e.g., almonds,🌰🍇🍊🍓🍅)
         * Drafting research manuscripts and grant proposals
         * Mentoring undergrad/graduate students
         
@@ -48,7 +48,7 @@ experience:
         
         * Developing automated orchard machinery
         * Developing methodologies for in-field proximal 3D sensing
-        * Analyzing in-field sensed imagery datasets on specialty crops (e.g., tree fruit 🍎)
+        * Analyzing in-field sensed imagery datasets on specialty crops (e.g., 🍎🍏🍇🍒🫐🍐)
         * Drafting research manuscripts and grant proposals
         * Mentoring summer interns
 ---
