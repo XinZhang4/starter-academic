@@ -18,7 +18,7 @@ social:
     icon_pack: fas
     link: https://digitalag.ucdavis.edu/
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=9dJH12gAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
@@ -26,6 +26,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/XinZhang4
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-9654-3859
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: University of California, Davis
     url: https://www.ucdavis.edu/
