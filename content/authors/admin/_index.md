@@ -26,6 +26,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/XinZhang4
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-9654-3859
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: University of California, Davis
     url: https://www.ucdavis.edu/
