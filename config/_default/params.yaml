@@ -141,9 +141,9 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 1
+  provider: 2
 #  engine: 2
-  api_key: https://developers.google.com/maps/documentation/javascript/get-api-key
+  api_key: ''
   zoom: 15
 marketing:
   google_analytics: ''
