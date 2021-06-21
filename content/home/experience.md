@@ -31,7 +31,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Developing automated AI-driven pipelines to analyze remote sensed imagery datasets on specialty crops
+        * Collecting various UAV-based imagery datasets
+        * Developing automated AI-driven pipelines and algorithms
+        * Analyzing remote sensed imagery datasets on specialty crops (e.g., tree nut 🌰)
         * Drafting research manuscripts and grant proposals
         * Mentoring undergrad/graduate students
         
@@ -41,5 +43,12 @@ experience:
     location: Washington
     date_start: '2016-08-16'
     date_end: '2020-05-09'
-    description: Worked in #AgRobotics lab on AI-driven orchard machinery and in-field sensing.
+    description: |2-
+        Responsibilities include:
+        
+        * Developing automated orchard machinery
+        * Developing methodologies for in-field proximal 3D sensing
+        * Analyzing in-field sensed imagery datasets on specialty crops (e.g., tree fruit 🍎)
+        * Drafting research manuscripts and grant proposals
+        * Mentoring summer interns
 ---
