@@ -30,8 +30,10 @@ address:
   country: United States
   country_code: US
 coordinates:
-  latitude: '38.5367'
-  longitude: '-121.7539'
+#  latitude: '38.5367'
+#  longitude: '-121.7539'
+  latitude: '37.4275'
+  longitude: '-122.1697'
 #directions: Enter the extension building
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
