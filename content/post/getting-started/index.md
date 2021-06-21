@@ -1,5 +1,5 @@
 ---
-title: 👋 Welcome to Xin's academic collections!
+title: (06/20/2021) 👋 Welcome to Xin's academic collections!
 subtitle: ""
 date: 2021-06-20T19:59:58.517Z
 summary: ""
@@ -12,7 +12,7 @@ tags: []
 categories: []
 projects: []
 image:
-  caption: Xin's Ph.D. final defense at Washington State University
+  caption: Xin's Ph.D. final defense at Washington State University (03/13/2020 Prosser, WA)
   focal_point: ""
   placement: 2
   preview_only: false
