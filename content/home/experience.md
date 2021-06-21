@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work Experience
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Postdoctoral Research Associate
+    company: University of California, Davis
+    company_url: 'https://www.ucdavis.edu/'
     location: California
-    date_start: '2017-01-01'
+    date_start: '2020-06-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developing automated AI-driven pipelines to analyze remote sensed imagery datasets on specialty crops
+        * Drafting research manuscripts and grant proposals
+        * Mentoring undergrad/graduate students
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Assistant
+    company: Washington State University
+    company_url: 'https://wsu.edu/'
+    location: Washington
+    date_start: '2016-08-16'
+    date_end: '2020-05-09'
+    description: Worked in #AgRobotics lab on AI-driven orchard machinery and in-field sensing.
 ---
