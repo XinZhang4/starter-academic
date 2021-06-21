@@ -4,12 +4,12 @@ role: Postdoctoral Research Associate
 avatar_filename: avatar.jpeg
 bio: ""
 interests:
-  - 🤖 Artificial Intelligence
+  - 🍃 Smart Agriculture
+  - 🤖 Artificial Intelligence in Ag
   - 📸 Computer Vision
-  - 🧠 Machine/Deep Learning
+  - 💻 Machine/Deep Learning
   - 🛰 Remote Sensing
   - ⛏ Data Science/Mining
-  - 👩‍🌾 Smart Agriculture
 social:
   - icon: envelope
     icon_pack: fas
