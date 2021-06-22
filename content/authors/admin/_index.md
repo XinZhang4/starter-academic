@@ -6,9 +6,10 @@ bio: ""
 interests:
   - 🍃 Smart Agriculture
   - 🤖 Artificial Intelligence in Ag
+  - 🦾 Ag Robotics
   - 📸 Computer Vision
-  - 💻 Machine/Deep Learning
   - 🛰 Remote Sensing
+  - 💻 Machine/Deep Learning
   - ⛏ Data Science/Mining
 social:
   - icon: envelope
