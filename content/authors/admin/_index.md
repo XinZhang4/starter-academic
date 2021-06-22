@@ -3,7 +3,7 @@ title: Xin Zhang
 role: Postdoctoral Research Associate
 avatar_filename: "#assets/media/avatar.jpg"
 bio: ""
-research interests:
+interests:
   - 🍃 Smart Agriculture
   - 🤖 Artificial Intelligence in Ag
   - 🦾 Ag Robotics
