@@ -10,30 +10,33 @@ main:
   - name: Lab Info
     url: ''
     weight: 20
+  - name: Featured
+    url: '#featured'
+    weight: 30
   - name: Posts
     url: '#posts'
-    weight: 30
+    weight: 40
   - name: Projects
     url: '#projects'
-    weight: 40
+    weight: 50
   - name: Publications
     url: '#publications'
-    weight: 50
+    weight: 60
   - name: Talks
     url: '#talks'
-    weight: 60
+    weight: 70
   - name: Teaching
     url: ''
-    weight: 70
+    weight: 80
   - name: Outreach
     url: ''
-    weight: 80
+    weight: 90
   - name: Image Gallery
     url: ''
-    weight: 90
+    weight: 100
   - name: Contact
     url: '#contact'
-    weight: 100
+    weight: 110
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
