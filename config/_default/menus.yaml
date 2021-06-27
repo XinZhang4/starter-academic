@@ -31,7 +31,7 @@ main:
   - name: Outreach
     url: ''
     weight: 90
-  - name: Image Gallery
+  - name: Gallery
     url: ''
     weight: 100
   - name: Contact
