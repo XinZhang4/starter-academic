@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Assistant Professor
     company: Mississippi State University (Department of Agricultural and Biological Engineering)
-    company_url: 'https://www.msstate.edu/'
+    company_url: 'https://www.abe.msstate.edu/people/faculty/'
     location: Mississippi
     date_start: '2021-08-16'
     date_end: ''
