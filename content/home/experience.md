@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Professor
-    company: Mississippi State University
+    company: Mississippi State University, Department of Agricultural and Biological Engineering
     company_url: 'https://www.msstate.edu/'
     location: Mississippi
     date_start: '2021-08-16'
