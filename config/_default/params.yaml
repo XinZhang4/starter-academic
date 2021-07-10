@@ -34,7 +34,7 @@ coordinates:
   longitude: '-121.7539'
 #directions: Enter the extension building
 office_hours:
-  - 'Monday-Friday 12:00-5:00 pm'
+  - 'Monday - Friday 12:00 - 5:00 pm'
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 contact_links:
