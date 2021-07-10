@@ -29,7 +29,7 @@ main:
     url: '#accomplishments'
     weight: 80
   - name: Outreach
-    url: ''
+    url: 'outreach'
     weight: 90
   - name: Gallery
     url: ''
