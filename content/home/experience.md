@@ -31,7 +31,7 @@ experience:
 
   - title: Postdoctoral Research Associate
     company: University of California, Davis
-    company_url: 'https://www.ucdavis.edu/'
+    company_url: 'https://digitalag.ucdavis.edu/people/xin-zhang'
     location: California
     date_start: '2020-06-01'
     date_end: '2021-07-31'
@@ -42,7 +42,7 @@ experience:
         
   - title: Research Assistant
     company: Washington State University
-    company_url: 'https://wsu.edu/'
+    company_url: 'https://labs.wsu.edu/karkee-ag-robotics/the-team/'
     location: Washington
     date_start: '2016-08-16'
     date_end: '2020-05-09'
