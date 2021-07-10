@@ -34,7 +34,7 @@ social:
     icon: orcid
 organizations:
   - name: Mississippi State University
-    url: https://www.msstate.edu/
+    url: https://www.abe.msstate.edu/people/faculty/
 education:
   courses:
     - course: Ph.D. in Biological and Agricultural Engineering
