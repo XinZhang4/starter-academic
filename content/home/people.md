@@ -1,7 +1,20 @@
+---
+# An instance of the About widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: about
+
+# Activate this widget? true/false
+active: true
+
 widget: people
 headless: true  # This file represents a page section.
 
+# Order that this section appears on the page.
+weight: 40
+
 # ... Put Your Section Options Here (title etc.) ...
+
+title: Lab Members
 
 content:
   # Choose which groups/teams of users to display.
