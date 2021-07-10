@@ -7,22 +7,22 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Lab Info
+  - name: People
     url: ''
     weight: 20
   - name: Featured
     url: '#featured'
     weight: 30
-  - name: Posts
+  - name: Post
     url: '#posts'
     weight: 40
-  - name: Projects
+  - name: Project
     url: '#projects'
     weight: 50
-  - name: Publications
+  - name: Publication
     url: '#publications'
     weight: 60
-  - name: Presentations
+  - name: Presentation
     url: '#talks'
     weight: 70
   - name: Teaching
