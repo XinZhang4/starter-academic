@@ -22,7 +22,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 60
-  - name: Talks
+  - name: Presentations
     url: '#talks'
     weight: 70
   - name: Teaching
