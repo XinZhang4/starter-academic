@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Professor
-    company: Mississippi State University, Department of Agricultural and Biological Engineering
+    company: Mississippi State University (Department of Agricultural and Biological Engineering)
     company_url: 'https://www.msstate.edu/'
     location: Mississippi
     date_start: '2021-08-16'
     date_end: ''
 
   - title: Postdoctoral Research Associate
-    company: University of California, Davis
+    company: University of California, Davis (Department of Biological and Agricultural Engineering)
     company_url: 'https://digitalag.ucdavis.edu/people/xin-zhang'
     location: California
     date_start: '2020-06-01'
@@ -41,7 +41,7 @@ experience:
 #        * Collecting various UAV-based imagery datasets
         
   - title: Research Assistant
-    company: Washington State University
+    company: Washington State University (Department of Biological Systems Engineering)
     company_url: 'https://labs.wsu.edu/karkee-ag-robotics/the-team/'
     location: Washington
     date_start: '2016-08-16'
