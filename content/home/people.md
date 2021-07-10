@@ -4,7 +4,7 @@
 widget: people
 
 # Activate this widget? true/false
-active: true
+active: false
 
 headless: true  # This file represents a page section.
 
