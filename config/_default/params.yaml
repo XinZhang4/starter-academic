@@ -23,15 +23,15 @@ twitter: ''
 email: xzxzhang@ucdavis.edu
 phone: +01 (888)888-8888
 address:
-  street: 1344 Bainer Hall, 1 Shields Ave.
-  city: Davis
-  region: CA
-  postcode: '95616'
+  street: J. Charles Lee Agricultural & Biological Engineering Building
+  city: Starkville
+  region: MS
+  postcode: '39762'
   country: United States
   country_code: US
 coordinates:
-  latitude: '38.5367'
-  longitude: '-121.7539'
+  latitude: '33.45307864444713'
+  longitude: '-88.79293077533399'
 #directions: Enter the extension building
 office_hours:
   - 'Monday - Friday 12:00 - 5:00 pm'
