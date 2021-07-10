@@ -49,7 +49,7 @@ education:
 email: xzxzhang@ucdavis.edu
 superuser: true
 highlight_name: false
-#user_groups: ["Principal Investigator"]
+user_groups: ["Principal Investigator"]
 ---
 Xin Zhang, Ph.D., is currently an Assistant Professor at Mississippi State University, Department of Agricultural and Biological Engineering. Xin has dedicated her efforts and time to developing 1) automated AI-driven pipelines to analyze aerial and ground image-based datasets; 2) decision-support tools for the U.S. west coast specialty crops using the advanced remote and proximal sensing technologies; and 3) automated and mechanized agricultural robots for solving the urgent issue of labor shortage worldwide.
 
