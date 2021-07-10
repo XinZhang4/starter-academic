@@ -1,6 +1,6 @@
 ---
 widget: outreach
-widget_id: my-widget-123
+widget_id: outreach
 headless: true
 weight: 110
 title: Outreach Events
