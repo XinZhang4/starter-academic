@@ -1,12 +1,11 @@
 ---
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
+widget: people
 
 # Activate this widget? true/false
 active: true
 
-widget: people
 headless: true  # This file represents a page section.
 
 # Order that this section appears on the page.
