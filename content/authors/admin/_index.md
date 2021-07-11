@@ -54,3 +54,7 @@ highlight_name: false
 Xin Zhang, Ph.D., is currently an Assistant Professor at Mississippi State University, Department of Agricultural and Biological Engineering. Xin has dedicated her efforts and time to developing 1) automated AI-driven pipelines to analyze aerial and ground image-based datasets; 2) decision-support tools for the U.S. west coast specialty crops using the advanced remote and proximal sensing technologies; and 3) automated and mechanized agricultural robots for solving the urgent issue of labor shortage worldwide.
 
 Xin has broad research experiences and is particularly interested in 1) RGB, multispectral, hyperspectral, thermal, and LiDAR capable sUAS remote and proximal sensing; 2) computer vision and deep learning-based field ag-robotics development; and 3) machine learning-based data science and feature engineering in the biological world.
+
+**Academic Responsibility**
+
+[Guest Editor - Computers and Electronics in Agriculture](https://www.abe.msstate.edu/people/faculty/)
