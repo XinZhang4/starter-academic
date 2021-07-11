@@ -55,6 +55,6 @@ Xin Zhang, Ph.D., is currently an Assistant Professor at Mississippi State Unive
 
 Xin has broad research experiences and is particularly interested in 1) RGB, multispectral, hyperspectral, thermal, and LiDAR capable sUAS remote and proximal sensing; 2) computer vision and deep learning-based field ag-robotics development; and 3) machine learning-based data science and feature engineering in the biological world.
 
-**Academic Responsibility**
+**Professional Development**
 
 [Guest Editor - Computers and Electronics in Agriculture](https://www.journals.elsevier.com/computers-and-electronics-in-agriculture)
