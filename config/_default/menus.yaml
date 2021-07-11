@@ -22,7 +22,7 @@ main:
   - name: Presentation
     url: '#talks'
     weight: 70
-  - name: Teaching
+  - name: Awards
     url: '#accomplishments'
     weight: 80
   - name: Gallery
