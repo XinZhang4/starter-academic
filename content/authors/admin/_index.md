@@ -1,5 +1,5 @@
 ---
-title: Xin Zhang
+title: Xin Zhang (PI)
 role: Assistant Professor
 avatar_filename: "#assets/media/avatar.jpg"
 bio: ""
