@@ -57,4 +57,4 @@ Xin has broad research experiences and is particularly interested in 1) RGB, mul
 
 **Academic Responsibility**
 
-    - [Guest Editor - Computers and Electronics in Agriculture](https://www.journals.elsevier.com/computers-and-electronics-in-agriculture)
+[Guest Editor - Computers and Electronics in Agriculture](https://www.journals.elsevier.com/computers-and-electronics-in-agriculture)
