@@ -26,7 +26,7 @@ main:
     url: '#accomplishments'
     weight: 80
   - name: Gallery
-    url: ''
+    url: '#gallery'
     weight: 90
   - name: Contact
     url: '#contact'
